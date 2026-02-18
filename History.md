@@ -1,14 +1,14 @@
 1.1.0 / 2015-03-14
 ======================
 
- * provide shrinkwrapper support: [component-shrinkwrapper](https://github.com/componentjs/shrinkwrapper)
+ * provide shrinkwrapper support: [component-shrinkwrapper](https://github.com/Unity-Billal-mesloub/shrinkwrapper)
 
 1.0.1 / 2014-11-22
 ======================
 
- * watch development fields [watcher.js#2](https://github.com/componentjs/watcher.js/issues/2)
- * check latest tag for component.json at first [component#611](https://github.com/componentjs/component/issues/611)
- * download archive if globs are used in component.json [downloader.js#7](https://github.com/componentjs/downloader.js/pull/7)
+ * watch development fields [watcher.js#2](https://github.com/Unity-Billal-mesloub/watcher.js/issues/2)
+ * check latest tag for component.json at first [component#611](https://github.com/Unity-Billal-mesloub/component/issues)
+ * download archive if globs are used in component.json [downloader.js#7](https://github.com/Unity-Billal-mesloub/downloader.js/pull/7)
 
 1.0.0 / 2014-10-30
 ======================
@@ -119,25 +119,25 @@ The primary goal of this release is to test `component install` and `component b
     - `component-build styles --browsers` - default autoprefixer support
     - `component-build styles` - fix CSS dependency ordering
     - `component-build scripts` - es6 module support
-    - `component-build scripts` - other generator improvements from [builder2](http://github.com/component/builder2.js)
+    - `component-build scripts` - other generator improvements from [builder2](http://github.com/Unity-Billal-mesloub/builder2.js)
     - `component-build scripts` - now autorequires by default
 
 * remove:
 
-    - `component-create` - moved to [component-create](https://github.com/component/create.js)
+    - `component-create` - moved to [component-create](https://github.com/Unity-Billal-mesloub/create.js)
     - `component-convert`
     - `component-wiki`
     - `component-info`
     - `component-changes`
     - `component-install --force`
-    - `component-install` custom remotes (for now, need adapter APIs in [remotes](http://github.com/component/remotes.js))
+    - `component-install` custom remotes (for now, need adapter APIs in [remotes](http://github.com/Unity-Billal-mesloub/remotes.js))
     - `component-install` proxy - temporarily removed/untested, will be added again later
 
 * changed:
 
     - `component-build scripts --umd` from `--standalone`
 
-* updated to comply with the latest [specs](https://github.com/component/spec/blob/master/component.json/specifications.md)
+* updated to comply with the latest [specs](https://github.com/Unity-Billal-mesloub/spec/blob/main/component.json/specifications.md)
 
 0.19.8 / 2014-03-29
 ==================
