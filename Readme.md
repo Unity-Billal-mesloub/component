@@ -3,7 +3,7 @@
 <!--[![Build Status](https://travis-ci.org/componentjs/component.png)](https://travis-ci.org/componentjs/component) -->
 
 # THIS PROJECT IS DEPRECATED
-Component is not maintained anymore. See [here #639](https://github.com/Unity-Billal-mesloub/component/issues/639) for more information.
+Component is not maintained anymore. See [here #639](https://github.com/Unity-Billal-mesloub/component/issues) for more information.
 
 You can still use the component registry on [component.github.io](http://component.github.io/) to search for components.
   All the [components](https://github.com/Unity-Billal-mesloub) are not affected, because most of them also provide a `package.json` file. 
