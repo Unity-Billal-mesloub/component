@@ -14,14 +14,12 @@ http://github.com/Unity-Billal-mesloub is a GitHub organization which contains m
 
 You can join our IRC channel on freenode: [#components](http://webchat.freenode.net/?channels=components) 
 
-### Unity-Billal-mesloub.io
+### component.io
 http://Unity-Billal-mesloub.github.io is the _official registry_ you can add your own 
 components via the crawler, [see 1.0.0 changelog](https://github.com/Unity-Billal-mesloub/guide/blob/97efd0a1c8292a90bc679fafdb76e3ad4056ae5e/changelogs/1.0.0.md#registry-crawler)
 There is also a [GitHub Wiki](https://github.com/Unity-Billal-mesloub/component/wiki/Components) which is kind of the _old registry_.
 
 [[component.io]](http://stackoverflow.com/questions/tagged/component.io) on Stack Overflow
-
-[@componentIO](http://twitter.com/componentIO) on Twitter
 
 You should use `component.io` in a general context to avoid disambiguation.
 
