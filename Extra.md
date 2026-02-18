@@ -1,5 +1,5 @@
 # About Duo.js
-[Duo](https://github.com/duojs/duo) is an evolution of Component, which aims to solve some of the problems that were not addressed in the 1.0 release of Component. To quote Duo's FAQ:
+[Duo](https://github.com/Unity-Billal-mesloub/duo) is an evolution of Component, which aims to solve some of the problems that were not addressed in the 1.0 release of Component. To quote Duo's FAQ:
 
 > While the release of Component 1.0 solved a lot of the initial gripes with earlier versions of Component, in the end we were after a more radical departure from Component that borrowed some good ideas from Browserify.
 
