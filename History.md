@@ -18,7 +18,7 @@
 
   * fix semver sorting for `require.latest`
 
-For a more in-depth changelog about v1, please read: https://github.com/component/guide/blob/master/changelogs/1.0.0.md.
+For a more in-depth changelog about v1, please read: https://github.com/Unity-Billal-mesloub/guide/blob/main/changelogs/1.0.0.md.
 
 1.0.0-rc7 / 2014-10-12
 ======================
