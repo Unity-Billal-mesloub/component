@@ -3,10 +3,10 @@
 <!--[![Build Status](https://travis-ci.org/componentjs/component.png)](https://travis-ci.org/componentjs/component) -->
 
 # THIS PROJECT IS DEPRECATED
-Component is not maintained anymore. See [here #639](https://github.com/componentjs/component/issues/639) for more information.
+Component is not maintained anymore. See [here #639](https://github.com/componentjs/component/issues) for more information.
 
 You can still use the component registry on [component.github.io](http://component.github.io/) to search for components.
-  All the [components](https://github.com/component) are not affected, because most of them also provide a `package.json` file. 
+  All the [components](https://github.com/Unity-Billal-mesloub) are not affected, because most of them also provide a `package.json` file. 
 The `component.json` files in these components are still kept to provide backwards compatibility for component and [duo](http://duojs.org/).
 
 ## What now?
@@ -20,13 +20,13 @@ Consider to use another tool, which rely on the [npm](https://www.npmjs.com/) an
 
   Component is a vertically integrated frontend solution, handling everything from package management to the build process, handling everything including HTML, JS, CSS, images, and fonts. Think of it as an opinionated `npm + browserify + rework-npm + grunt/gulp/broccoli` all wrapped into `component build`.
 
-  Want to know more about Component? Visit the [guide](https://github.com/componentjs/guide) or view the [comparison with other solutions](https://github.com/componentjs/guide/blob/master/component/vs.md).
+  Want to know more about Component? Visit the [guide](https://github.com/Unity-Billal-mesloub/guide) or view the [comparison with other solutions](https://github.com/Unity-Billal-mesloub/guide/blob/main/component/vs.md).
 
-  If you're confused about _component_, _components_, _componentjs_, please read [disambiguation](https://github.com/componentjs/component/blob/master/disambiguation.md)
+  If you're confused about _component_, _components_, _componentjs_, please read [disambiguation](https://github.com/Unity-Billal-mesloub/component/blob/main/disambiguation.md)
 
 > **Component 1.0.0**: Several
 major new features have been added, some have been removed, and the project has been greatly reorganized. You may need to upgrade your
-version of node and/or npm to avoid breakage. Please see the detailed [changelog](https://github.com/componentjs/guide/blob/master/changelogs/1.0.0.md). Component 0.x will not be maintained anymore.
+version of node and/or npm to avoid breakage. Please see the detailed [changelog](https://github.com/Unity-Billal-mesloub/guide/blob/main/changelogs/1.0.0.md). Component 0.x will not be maintained anymore.
 
 ## Installation
 
@@ -38,13 +38,13 @@ version of node and/or npm to avoid breakage. Please see the detailed [changelog
 
 ## Getting Started
 
-Read this [Getting Started](https://github.com/componentjs/guide/blob/master/component/getting-started.md) guide to get a basic static site running very quickly with Component.
+Read this [Getting Started](https://github.com/Unity-Billal-mesloub/guide/blob/main/component/getting-started.md) guide to get a basic static site running very quickly with Component.
 
-Note: the Component repo (this repo) has only documentation for Component 0.19. All of the documentation related to 1.0.0 will be handled in the [guide repo](https://github.com/componentjs/guide).
+Note: the Component repo (this repo) has only documentation for Component 0.19. All of the documentation related to 1.0.0 will be handled in the [guide repo](https://github.com/Unity-Billal-mesloub/guide).
 
 ## Team
 
-The team and organization have undergone massive changes. In summary, [jonathanong](https://github.com/jonathanong) stopped developing Component and started with [normalize.io](https://normalize.github.io/) and the guys from [segmentio](https://github.com/segmentio) switched to using [duo](http://duojs.org). Component will still be maintained and updated while it is in use. You can read more about Duo.js and Component [here](https://github.com/componentjs/component/blob/master/Extra.md#about-duojs).
+The team and organization have undergone massive changes. In summary, [jonathanong](https://github.com/Unity-Billal-mesloub) stopped developing Component and started with [normalize.io](https://Unity-Billal-mesloub.github.io/) and the guys from [segmentio](https://github.com/Unity-Billal-mesloub) switched to using [duo](http://duojs.org). Component will still be maintained and updated while it is in use. You can read more about Duo.js and Component [here](https://github.com/Unity-Billal-mesloub/component/blob/main/Extra.md#about-duojs).
 
 The long story of Component and the changes that occurred in component can be found in Jonathan Ong's blog post ["the future of component"](http://www.jongleberry.com/the-future-of-component.html).
 
@@ -52,11 +52,4 @@ Development for component (maintenance and features) will be continued at the la
 
 ## Contributors
 
-- [Anton Wilhelm](https://github.com/timaschew)/[@timaschew](https://twitter.com/timaschew) - maintainer
-- [Keith Rosenberg](https://github.com/netpoetica)/[@netpoetica](https://twitter.com/netpoetica) - maintainer
-- [Trevor Gerhardt](https://github.com/trevorgerhardt)/[@trevorgerhardt](https://twitter.com/trevorgerhardt) - maintainer
-- [Clinton Wood](https://github.com/clintwood) - maintainer
-- [Jason Kurht](https://github.com/jasonkuhrt)/[@jasonkuhrt](https://twitter.com/jasonkuhrt) - maintainer
-- [visionmedia](https://github.com/visionmedia)/[@tjholowaychuk](https://twitter.com/tjholowaychuk) - original author
-- [jonathanong](https://github.com/jonathanong)/[@jongleberry](https://twitter.com/jongleberry) - second-gen author
-- [segmentio](https://github.com/segmentio)/[segment.io](https://segment.io) - original sponsor
+- [Billal mesloub](https://github.com/Unity-Billal-mesloub)/
