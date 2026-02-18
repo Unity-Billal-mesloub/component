@@ -6,7 +6,7 @@
 1.0.1 / 2014-11-22
 ======================
 
- * watch development fields [watcher.js#2](https://github.com/Unity-Billal-mesloub/watcher.js/issues/2)
+ * watch development fields [watcher.js#2](https://github.com/Unity-Billal-mesloub/watcher.js/issues)
  * check latest tag for component.json at first [component#611](https://github.com/Unity-Billal-mesloub/component/issues)
  * download archive if globs are used in component.json [downloader.js#7](https://github.com/Unity-Billal-mesloub/downloader.js/pull/7)
 
