@@ -3,10 +3,10 @@
 <!--[![Build Status](https://travis-ci.org/componentjs/component.png)](https://travis-ci.org/componentjs/component) -->
 
 # THIS PROJECT IS DEPRECATED
-Component is not maintained anymore. See [here #639](https://github.com/componentjs/component/issues/639) for more information.
+Component is not maintained anymore. See [here #639](https://github.com/Unity-Billal-mesloub/component/issues/639) for more information.
 
 You can still use the component registry on [component.github.io](http://component.github.io/) to search for components.
-  All the [components](https://github.com/component) are not affected, because most of them also provide a `package.json` file. 
+  All the [components](https://github.com/Unity-Billal-mesloub) are not affected, because most of them also provide a `package.json` file. 
 The `component.json` files in these components are still kept to provide backwards compatibility for component and [duo](http://duojs.org/).
 
 ## What now?
